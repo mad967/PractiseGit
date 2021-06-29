@@ -1,0 +1,2 @@
+# PractiseGit
+studying Git setup
